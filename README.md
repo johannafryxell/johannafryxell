@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there ☺︎
+I'm Johanna, a Front-End development student at Medieinstitutet with a previous bachelors degree in Interaction Design. I like to be creative and logical thinking, hence my interest in UX-design and programming.
 
-<!--
-**johannafryxell/johannafryxell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🔎 Looking for internship
+In the fall of 2022 I'm excited to learn more about practising front-end development in the workplace
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 💻 Things I know
+HTML5 ∙ CSS3 ∙ JavaScript ∙ TypeScript ∙ Sass ∙ Bootstrap ∙ Node.js ∙ Express.js ∙ MongoDB ∙ Mongoose ∙ Cypress ∙ Figma
+
+### ⛓ Connect
+- Johanna.Fryxell@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/johannafryxell/)
