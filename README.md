@@ -9,6 +9,6 @@ In the fall of 2022 I'm excited to learn more about practising front-end develop
 ### 💻 Things I know
 HTML5 ∙ CSS3 ∙ JavaScript ∙ TypeScript ∙ Sass ∙ Bootstrap ∙ Node.js ∙ Express.js ∙ MongoDB ∙ Mongoose ∙ Cypress ∙ Figma
 
-### ⛓ Connect
+### ✉️ Connect
 - Johanna.Fryxell@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/johannafryxell/)
